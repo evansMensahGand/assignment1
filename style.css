@@ -148,7 +148,7 @@ header {
 }
 
 .image5 {
-  background-image: url(./bread-31.jpg);
+   background-image: url(./bread-31.jpg); 
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -159,7 +159,7 @@ header {
 }
 
 .image7 {
-  background-image: url(./grain-bread-3.jpg);
+  background-image: url(./grain-bread-3.jpg); 
   background-position: right;
 }
 
